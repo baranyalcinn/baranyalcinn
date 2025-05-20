@@ -6,7 +6,7 @@
 
 <!-- PROFILE VIEWS -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=baranyalcin&label=Profile%20views&color=0e75b6&style=flat" alt="baranyalcin" />
+  <img src="https://komarev.com/ghpvc/?username=baranyalcinn&label=Profile%20views&color=0e75b6&style=flat" alt="baranyalcin" />
 </p>
 
 ---
@@ -25,8 +25,10 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://tr.linkedin.com/in/baran-yalçın-521691242)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/ylcnn.baran/)  
+<a href="https://tr.linkedin.com/in/baran-yalçın-521691242?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranyalcinn" height="30" width="40" /></a>
+<a href="https://instagram.com/ylcnn.baran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylcnn.baran" height="30" width="40" /></a>
+
+
 
 ---
 
@@ -60,10 +62,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baranyalcin&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baranyalcinn&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranyalcin&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranyalcinn&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
@@ -71,7 +73,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baranyalcin&theme=dracula&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=baranyalcinn&theme=dracula&no-frame=true&column=6" />
 </p>
 
 ---
@@ -79,7 +81,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baranyalcin&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baranyalcinn&theme=dracula" alt="Contribution Graph" />
 </p>
 
 <!-- RAINBOW LINE BOTTOM -->
