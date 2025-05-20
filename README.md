@@ -11,9 +11,20 @@
 
 ---
 
-## 👋 Hi, I'm Baran Yalçın
+## 👋 Hi everyone, I'm Baran Yalçın
+<br>
 
-💡 Someone who tries to gain a versatile perspective, is open to innovations, and always seeks improvement.  
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/quote-left.png" width="20"/>
+  <br>
+  <em><strong>"The measure of intelligence is the ability to change."</strong></em>
+  <br>
+  <em>— Albert Einstein</em>
+  <br>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/quote-right.png" width="20"/>
+</p>
+
+<br>
 
 📱 Currently working on: **SpringBoot & React**  
 📚 Currently learning: **SpringBoot**  
