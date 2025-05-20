@@ -4,58 +4,83 @@
 <!-- HEADER GIF -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="100%">
 
-<!-- GÖRÜNTÜLEME SAYACI -->
+<!-- PROFILE VIEWS -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=baranyalcin&label=Profile%20views&color=0e75b6&style=flat" alt="baranyalcin" />
 </p>
 
 ---
 
-## 👋 Merhaba, ben Baran Yalçın
+## 👋 Hi, I'm Baran Yalçın
 
-🎓 Yazılım geliştirme tutkunu  
-🔭 Şu anda React, TypeScript ve Java ile projeler geliştiriyorum  
-🌱 Docker ve PostgreSQL konularında derinleşiyorum  
-💬 C, C++, C#, Java, TypeScript, React gibi teknolojilere hakimim  
-📫 Bana ulaşın: [ylcnnbaran@gmail.com](mailto:ylcnnbaran@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/baran-yalçın-521691242](https://tr.linkedin.com/in/baran-yalçın-521691242)
+💡 Someone who tries to gain a versatile perspective, is open to innovations, and always seeks improvement.  
 
----
-
-## 🛠️ Kullandığım Teknolojiler
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-
-### Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+📱 Currently working on: **SpringBoot & React**  
+📚 Currently learning: **SpringBoot**  
+🤝 Looking to collaborate on: **Web Applications**  
+🎯 Seeking: **Internship opportunities**  
+📫 Contact me: [ylcnnbaran@gmail.com](mailto:ylcnnbaran@gmail.com)  
 
 ---
 
-## 📈 GitHub İstatistiklerim
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://tr.linkedin.com/in/baran-yalçın-521691242)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/ylcnn.baran/)  
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baranyalcin&show_icons=true&theme=dracula" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baranyalcin&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranyalcin&theme=dracula" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranyalcin&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏆 GitHub Başarıları
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baranyalcin&theme=dracula&no-frame=true&column=6
+  <img src="https://github-profile-trophy.vercel.app/?username=baranyalcin&theme=dracula&no-frame=true&column=6" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baranyalcin&theme=dracula" alt="Contribution Graph" />
+</p>
+
+<!-- RAINBOW LINE BOTTOM -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
