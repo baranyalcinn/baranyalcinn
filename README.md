@@ -1,9 +1,9 @@
+
+
 <!-- RAINBOW LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <!-- HEADER GIF -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="100%">
-
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%">
 <!-- PROFILE VIEWS -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=baranyalcinn&label=Profile%20views&color=0e75b6&style=flat" alt="baranyalcin" />
@@ -11,7 +11,12 @@
 
 ---
 
-## 👋 Hi everyone, I'm Baran Yalçın
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+everyone!+I'm+Baran;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;">
+  </a>
+</p>
+
+
 <br>
 
 <p align="center">
@@ -31,13 +36,13 @@
 🤝 Looking to collaborate on: **Web Applications**  
 🎯 Seeking: **Internship opportunities**  
 📫 Contact me: [ylcnnbaran@gmail.com](mailto:ylcnnbaran@gmail.com)  
-
----
+<br>
 
 ## 🔗 Connect with me
 
-<a href="https://tr.linkedin.com/in/baran-yalçın-521691242?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranyalcinn" height="30" width="40" /></a>
-<a href="https://instagram.com/ylcnn.baran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylcnn.baran" height="30" width="40" /></a>
+<a href="https://tr.linkedin.com/in/baran-yalçın-521691242?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranyalcinn" height="30" width="40" />
+
+<a href="https://instagram.com/ylcnn.baran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylcnn.baran" height="30" width="40" />
 
 
 
@@ -45,40 +50,68 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Backend</th>
+      <th>Frontend</th>
+      <th>DevOps</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="font-weight: bold; padding-right: 18px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+       <br/>
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/>
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="40" height="40"/>
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40"/>
+     <br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+          <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+      </td>
+      <td align="center" style="font-weight: bold; padding-right: 18px;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+        <br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+        <br/>
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="40" height="40"/>
+      </td>
+      <td align="center" style="font-weight: bold; padding-right: 18px;">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/>
+       <br/>
+          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+        <br/>
+          <img src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg" alt="Git" width="40" height="40"/>
+      </td>
+      <td align="center" style="font-weight: bold; padding-right: 18px;">
+          <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="40" height="40"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
+        <br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
+
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baranyalcinn&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baranyalcinn&theme=dracula" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/baranyalcinn">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=baranyalcinn&theme=dark&show_icons=true" />
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranyalcinn&theme=dark&layout=compact" />
+</a>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -86,13 +119,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=baranyalcinn&theme=dracula&no-frame=true&column=6" />
 </p>
 
----
-
 ## 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baranyalcinn&theme=dracula" alt="Contribution Graph" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baranyalcinn&theme=dracula" width="100%" alt="Baran Yalçın GitHub Contribution Graph"/>
 </p>
 
-<!-- RAINBOW LINE BOTTOM -->
+<br>
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
