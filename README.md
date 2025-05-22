@@ -44,10 +44,7 @@
 
 <a href="https://instagram.com/ylcnn.baran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylcnn.baran" height="30" width="40" />
 
-
-
 ---
-
 ## 🛠️ Languages and Tools
 
 <table>
@@ -102,8 +99,24 @@
 </table>
 
 ---
+## 🛠️ Top Projects
 
+<p>
+  <a href="https://github.com/baranyalcinn/TYT-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baranyalcinn&repo=TYT-Project&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="CashRegistry"></a>
+  <a href="https://github.com/baranyalcinn/geneo">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baranyalcinn&repo=geneo&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="familyTree"></a>
+  <a href="https://github.com/baranyalcinn/Squadron">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baranyalcinn&repo=Squadron&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Aircraft maker game">
+  </a>
+  </br>
 
+  
+  </p>
+  <p align="right">
+    <a href="https://github.com/baranyalcinn?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+  </p>
+
+---
 ## 📈 GitHub Stats
 
 <a href="https://github.com/baranyalcinn">
