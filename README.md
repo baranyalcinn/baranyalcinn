@@ -40,7 +40,7 @@
 
 ## 🔗 Connect with me
 
-<a href="https://tr.linkedin.com/in/baran-yalçın-521691242?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranyalcinn" height="30" width="40" />
+<a href="https://tr.linkedin.com/in/baranyalcinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranyalcinn" height="30" width="40" />
 
 <a href="https://instagram.com/ylcnn.baran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylcnn.baran" height="30" width="40" />
 
@@ -99,7 +99,7 @@
 </table>
 
 ---
-## 🛠️ Top Projects
+## Top Projects
 
 <p>
   <a href="https://github.com/baranyalcinn/TYT-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baranyalcinn&repo=TYT-Project&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="CashRegistry"></a>
